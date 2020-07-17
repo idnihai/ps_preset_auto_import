@@ -5,4 +5,4 @@
 使用方法：
 将.exe文件放至与预设文件夹同级目录，如图：
 
-![](https://github.com/idnihai/ps_preset_auto_import/readme-img/sample.png)
+![](readme-img/sample.png)
